@@ -1,0 +1,68 @@
+{
+  "todos": [
+    {
+      "_id": "1",
+      "status": "pending",
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Eggs, and Fruits",
+      "date": "2024-07-01",
+      "time": "10:00"
+    },
+    {
+      "_id": "2",
+      "status": "completed",
+      "title": "Morning Workout",
+      "description": "30 minutes of cardio",
+      "date": "2024-07-01",
+      "time": "07:00"
+    },
+    {
+      "_id": "3",
+      "status": "pending",
+      "title": "Read a book",
+      "description": "Finish reading 'Atomic Habits'",
+      "date": "2024-07-01",
+      "time": "14:00"
+    },
+    {
+      "_id": "4",
+      "status": "completed",
+      "title": "Meeting with Bob",
+      "description": "Discuss the new project requirements",
+      "date": "2024-07-01",
+      "time": "11:00"
+    },
+    {
+      "_id": "5",
+      "status": "pending",
+      "title": "Write a blog post",
+      "description": "Write about the latest tech trends",
+      "date": "2024-07-01",
+      "time": "16:00"
+    },
+    {
+      "_id": "6",
+      "status": "completed",
+      "title": "Clean the house",
+      "description": "Vacuum and dust all rooms",
+      "date": "2024-06-30",
+      "time": "09:00"
+    },
+    {
+      "_id": "7",
+      "status": "pending",
+      "title": "Call Mom",
+      "description": "Catch up with family news",
+      "date": "2024-07-01",
+      "time": "18:00"
+    },
+    {
+      "_id": "8",
+      "status": "pending",
+      "title": "Plan weekend trip",
+      "description": "Choose destination and book hotel",
+      "date": "2024-07-01",
+      "time": "20:00"
+    }
+  ]
+}
